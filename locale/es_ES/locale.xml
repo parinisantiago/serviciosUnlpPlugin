@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<locale name="es_ES" full_name="Español (España)">
+    <message key="plugins.block.unlpServices.displayName">Bloque "Servicios UNLP"</message>
+    <message key="plugins.block.unlpServices.description">Este complemento proporciona una barra lateral con un lista de "Servicios UNLP".</message>
+    <message key="plugins.block.unlpServices.serviceslistTitle">Servicios brindados por la UNLP</message>
+    <message key="plugins.block.unlpServices.portalsListTitle">Portales de la UNLP</message>
+</locale>

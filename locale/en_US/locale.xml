@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<locale name="en_US" full_name="U.S. English">
+    <message key="plugins.block.unlpServices.displayName">"UNLP services" Block</message>
+    <message key="plugins.block.unlpServices.description">This plugin provides sidebar "UNLP services" list.</message>
+    <message key="plugins.block.unlpServices.serviceslistTitle">UNLP services</message>
+    <message key="plugins.block.unlpServices.portalsListTitle">UNLP portals</message>
+
+</locale>
